@@ -18,5 +18,7 @@ It will open the web page. you only need to drag and drop tomato plant leaf imag
 
 ### Screenshot of Streamlit App.
 </br>
-![prediction](https://user-images.githubusercontent.com/100796728/223176566-c06fea7d-80b4-4a4c-9cb6-3f9b02075918.png)
+![prediction](https://user-images.githubusercontent.com/100796728/223178055-93efb42e-0177-4dc4-bd04-2fa070fd34ec.png)
+
+
 
